@@ -1,0 +1,6 @@
+{
+  "name": "TalentMind AI",
+  "description": "Intelligent Candidate Ranking and AI Recruitment Platform using semantic matching and LLM-based reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
